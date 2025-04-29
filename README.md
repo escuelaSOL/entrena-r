@@ -77,3 +77,5 @@ La estructura es un array de objetos JavaScript, donde cada objeto representa un
 
 Este repositorio fue creado por el equipo de la [Escuela de Datos](https://aulavirtual.escuelasol.cl/escuela-de-datos#scrollTop=0) de la [Fundación SOL](www.fundacionsol.cl).
 Puedes utilizarlo para tus proyectos, pero ten presente comentar de donde provino el código original para seguir nutriendo este repositorio y trabajo. Gracias!
+
+Esta aplicación se desarrolló junto con la utilización de herramientas como notebookLM y gemini 2.5 flash (experimental). Se hizo un esquema de instrucciones via ventana de contexto, se realizaron multiples iteraciones para corregir errores y se documentó el proceso. La versión publicada en este repositorio, fue complementada y revisada por personas, manteniendo algunos comentarios útiles en el código y modificando otros aspectos de funcionalidad y redacción.  
